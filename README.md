@@ -1,7 +1,7 @@
 # PWA Text Editor
 
 ## Description
-This is a text editor that is a progressive web app (PWA). The app can be installed directly to the computer so it can be used offline. It utilizes IndexedDB to persistently store text data for the app.  
+This is a text editor that is a progressive web app (PWA). The app can be installed directly to the computer so it can be used offline. It utilizes IndexedDB to persistently store text data for the app. The deployed app can be found [here](https://dh-text-editor.herokuapp.com/).  
 
 ## Table of Contents
 1. [Installation](#installation)
